@@ -7,6 +7,7 @@
     "schemas",
     "types",
     "platforms"
+    
   ],
   "npmClient": "yarn",
   "version": "independent",
